@@ -1,6 +1,13 @@
 
 Script to watch for changes in my schools schedules platform 
 
+Run with
+
+```
+watch -d  -n 5 "yarn start"
+
+```
+
 Inspired by this line:
 
 ```
